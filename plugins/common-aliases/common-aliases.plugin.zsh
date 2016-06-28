@@ -50,6 +50,7 @@ alias rm='rm -i'
 alias cp='cp -i'
 alias mv='mv -i'
 
+alias cdqqm='cd /Users/ming/Documents/queqianme/workspace/qqm'
 # zsh is able to auto-do some kungfoo
 # depends on the SUFFIX :)
 if [ ${ZSH_VERSION//\./} -ge 420 ]; then
